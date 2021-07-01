@@ -1,0 +1,10 @@
+Revisar
+Ejercicios ciclos while
+Ejercicios ciclos for
+Ejercicios condicionales
+Ejercicios Variables
+Variables 2 Asignación y vectores
+Variables 3 diccionarios
+
+Se agrego el bloque de identación.
+U2_1_Condicionales
