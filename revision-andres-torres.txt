@@ -1,10 +1,11 @@
 Revisar
-Ejercicios ciclos while
-Ejercicios ciclos for
-Ejercicios condicionales
-Ejercicios Variables
-Variables 2 Asignación y vectores
-Variables 3 diccionarios
+U2_4_Ciclos_while_ejercicio.ipynb
+U2_5_Ciclos_for_ejercicios.ipynb
+U2_2_Condicionales_Ejercicios.ipynb
+U1_4_Variables_Ejercicios.ipynb
+U1_2_Variables_Asignaciones y vectores.ipynb
+U1_3_Variables_Diccionarios.ipynb
+U3_1_Funciones.ipynb
 
 Se agrego el bloque de identación.
-U2_1_Condicionales
+U2_1_Condicionales.ipynb
