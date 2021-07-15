@@ -7,6 +7,11 @@ U2_5_Ciclos_for_ejercicios.ipynb
 U2_2_Condicionales_Ejercicios.ipynb
 U3_1_Funciones.ipynb
 U3_2_Funciones.ipynb
+U3_3_Algoritmos
+U3_4_Algoritmos_Ejercicios
+U4_1_Programacion_Orientada_Objetos
+U4_2_POO_Ejercicios
+
 
 Se agrego el bloque de identación.
 U2_1_Condicionales.ipynb
