@@ -1,17 +1,19 @@
 Revisar
-U1_4_Variables_Ejercicios.ipynb
-U1_2_Variables_Asignaciones y vectores.ipynb
-U1_3_Variables_Diccionarios.ipynb
-U2_4_Ciclos_while_ejercicio.ipynb
-U2_5_Ciclos_for_ejercicios.ipynb
-U2_2_Condicionales_Ejercicios.ipynb
-U3_1_Funciones.ipynb
-U3_2_Funciones.ipynb
-U3_3_Algoritmos
-U3_4_Algoritmos_Ejercicios
-U4_1_Programacion_Orientada_Objetos
-U4_2_POO_Ejercicios
+U1_4_Variables_Ejercicios.ipynb-**OK** **UP**
+U1_2_Variables_Asignaciones y vectores.ipynb -**OK** **UP**
+U1_3_Variables_Diccionarios.ipynb - **OK** **UP**
+U2_4_Ciclos_while_ejercicio.ipynb - **OK** **UP**
+U2_5_Ciclos_for_ejercicios.ipynb - **AJUSTAR** ¡FALTA TABLA PUNTO 4!
+U2_2_Condicionales_Ejercicios.ipynb - **OK** **UP**
+U2_3_Ciclos - **UP** **AJUSTAR** ¡FALTAN IMÁGENES DEL CICLO DEL AGUA Y DEL RECICLAJE!
+U3_1_Funciones.ipynb - **UP** **AJUSTAR** ¡INCLUIR PÁRRAFO DE INSTRUCCIÓN O EXPLICACIÓN EN 2 -...MÚLTIPLES ARGUMENTOS
+U3_2_Funciones ejercicios.ipynb - **OK** **UP**
+U3_3_Algoritmos - **OK** **UP**
+U3_4_Algoritmos_Ejercicios - **OK** **UP**
+U4_1_Programacion_Orientada_Objetos - **OK** **UP**
+U4_2_POO_Ejercicios - **OK** **UP**
+
 
 
 Se agrego el bloque de identación.
-U2_1_Condicionales.ipynb
+U2_1_Condicionales.ipynb - **AJUSTAR** - Ejercicio: Haz cambios en este código para (ESTÁ INCOMPLETA LA FRASE) Tema Condiciones en Python
